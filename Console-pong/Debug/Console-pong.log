@@ -1,0 +1,3 @@
+﻿  Console-pong.cpp
+C:\Users\Owner\Documents\Programming\Pong\Console-Pong\Console-pong\Console-pong.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Console-pong.vcxproj -> C:\Users\Owner\Documents\Programming\Pong\Console-Pong\Console-pong\Debug\Console-pong.exe

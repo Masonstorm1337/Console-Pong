@@ -1,0 +1,2 @@
+C:\Users\Owner\Documents\Programming\Pong\Console-Pong\Console-pong\Debug\Console-pong.exe
+C:\Users\Owner\Documents\Programming\Pong\Console-Pong\Console-pong\Debug\Console-pong.pdb
