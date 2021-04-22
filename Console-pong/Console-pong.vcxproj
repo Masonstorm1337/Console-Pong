@@ -149,9 +149,6 @@
   <ItemGroup>
     <ClCompile Include="Console-pong.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="olcConsoleGameEngine.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
